@@ -2,5 +2,5 @@
 - 👀 I’m interested in converting the ideas and daily life challenges in websites and webapps. I use springboot as backend and for front-end I can build the UIs in Angular, JSP, Freemarker, Bootstrap, HTML, CSS, SASS and Javascript.
 - 🌱 I’m currently learning microservices best practises and cloud architectures. Mainly AWS. 
 - 💞️ I’m looking to collaborate on long term projects and awesome Teams
-- 📫 How to reach me SKYPE: *live:usamaislam86*, EMAIL: usama.islam86@gmail.com
-- Upwork: https://www.upwork.com/freelancers/muhammadusamabinislam2
+- 📫 How to reach me SKYPE: *live:usamaislam86*, EMAIL: usamaislam86@gmail.com
+- Upwork: https://www.upwork.com/freelancers/javaengineerusama
